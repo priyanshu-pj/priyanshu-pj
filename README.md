@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @priyanshu-pj
 - 👀 I’m interested in software(dev), I have worked in Data-Science and DevOps
 - 🌱 I’m currently learning BlockChain
-- 💞️ I’m looking to collaborate on ETL
+- 💞️ I’m looking to collaborate on blockchain
 - 📫 How to reach me Email - priyanshu87694@gmail.com
 
 <!---
